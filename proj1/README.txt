@@ -1,5 +1,4 @@
 Mary Dzhibladze
-811105332
 
 To compile:
     make
